@@ -1,0 +1,85 @@
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET / HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:04:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:30:31] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:30:31] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'C:\\Users\\zhaohui.li\\Desktop\\IHOME\\ihome_python04\\ihome\\api_1_0\\demo.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 11:31:14] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 14:27:46] "GET /api/v1.0/index HTTP/1.1" 200 -
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+INFO _internal.py:122 127.0.0.1 - - [03/Dec/2019 14:29:16] "GET /api/v1.0/index HTTP/1.1" 200 -
+ERROR __init__.py:97 Error: Directory migrations already exists and is not empty
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 301-379-957
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:17 error info
+WARNING demo.py:18 warn info
+INFO demo.py:19 info info
+DEBUG demo.py:20 debug info
+INFO _internal.py:122 127.0.0.1 - - [04/Dec/2019 10:54:47] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [04/Dec/2019 10:54:48] "GET /favicon.ico HTTP/1.1" 404 -
